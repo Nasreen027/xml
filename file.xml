@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "external.dtd"[
+<!ENTITY ps "pass112">
+]>
+<company>
+    <employe>
+        <name profile="Frontend Developer">Ali</name>
+        <email>ali@gmail.com</email>
+        <password>12345</password>
+    </employe>
+    <client>
+        <name profile="Web Designer">Asim</name>
+        <email>asim@gmail.com</email>
+        <password>&ps;</password>
+    </client>
+</company>
